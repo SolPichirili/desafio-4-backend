@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Saladitos x 12",
+    "price": "$1000",
+    "thumbnail": "https://i.ytimg.com/vi/WIPg7_st9qo/maxresdefault.jpg",
+    "id": 1
+  },
+  {
+    "title": "Sanguches de miga x 16",
+    "price": "$1200",
+    "thumbnail": "https://placeralplato.com/files/2015/05/Receta-de-sndwiches-de-miga.jpg",
+    "id": 2
+  },
+  {
+    "title": "Chips x 12",
+    "price": "$1300",
+    "thumbnail": "https://placeralplato.com/files/2015/05/Receta-de-sndwiches-de-miga.jpg",
+    "id": 3
+  }
+]
